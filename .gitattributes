@@ -1,3 +1,5 @@
 Collections/** filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
 Test[[:space:]]MFA/** filter=lfs diff=lfs merge=lfs -text
 MFA/Test[[:space:]]MFA/** filter=lfs diff=lfs merge=lfs -text
